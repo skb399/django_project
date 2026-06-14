@@ -4,3 +4,4 @@ from django.http import HttpResponse
 
 def about_me(request):
     return HttpResponse("Hello, this would be the about page")
+
